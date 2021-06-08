@@ -15,7 +15,7 @@
 | Mod 01  | 3    | [Demo 03: Create a Web App with a local Git deployment source](Mod01/03_demo/Evidencias.md) ||
 | Mod 01  |     | [Lab 01: Building a web application on Azure platform as a service offerings](Mod01/ZZ-lab/Evidencias.md) |01|
 | Mod 02  | 1    | docs/mod02_01_Create an HTTP trigger function by using  the Azure portal |      |
-| Mod 02  | 1    | [Lab 02: Implement task processing logic by using Azure Functions](Mod01/ZZ-lab/Evidencias.md) | 02 |
+| Mod 02  | 1    | [Lab 02: Implement task processing logic by using Azure Functions](Mod02/ZZ-lab/Evidencias.md) | 02 |
 | Mod 03  | 1    | docs/mod03_01_Create a block blob storage account            |      |
 | Mod 03  | 2    | docs/mod03_02_Add a policy to Azure Blob storage             |      |
 | Mod 03  | 3    | docs/mod03_03_Using the Azure Blob storage client  library for .NET v11 |      |

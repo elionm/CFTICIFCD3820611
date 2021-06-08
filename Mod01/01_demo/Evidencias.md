@@ -40,4 +40,23 @@ In this demo you will learn how to create a Web App by using the Azure Portal.
 3. **Select** the **Delete resource group** button at the top of the Overview page.
 4. You will be prompted to enter the resource group name to verify you want to delete it. Enter the name of the resource group and select **Delete**.
 
-   
+
+
+
+![0101-01](Images/0101-01.png)
+
+
+
+![0101-02](Images/0101-02.png)
+
+
+
+![0101-03](Images/0101-03.png)
+
+
+
+![0101-04](Images/0101-04.png)
+
+
+
+![0101-05](Images/0101-05.png)

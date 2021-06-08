@@ -146,3 +146,62 @@ In the Cloud Shell use the following command to delete the resource group and th
 ```
 az group delete --name <MyResourceGroup> --no-wait
 ```
+
+
+
+##  Evidencias
+
+Download a sample repository locally in command window:
+
+![0103-01](Images/0103-01.png)
+
+In the Azure Cloud Shell:
+
+Create a resource group:
+
+![0103-02](Images/0103-02.png)
+
+Create an app service plan:
+
+![0103-03](Images/0103-03.png)
+
+Create the web app:
+
+![0103-04](Images/0103-04.png)
+
+![0103-05](Images/0103-05.png)
+
+
+
+Deploy with Kudu build server:
+
+Default App:
+
+![0103-06](Images/0103-06.png)
+
+![0103-07](Images/0103-07.png)
+
+
+
+Configure a deployment user in Azure Cloud Shell:
+
+![0103-08](Images/0103-08.png)
+
+Get the web app deployment URL in Azure Cloud Shell:
+
+![0103-09](Images/0103-09.png)
+
+Deploy the web app in the local Git Bash:
+
+![0103-10](Images/0103-10.png)
+
+![0103-11](Images/0103-11.png)
+
+Cleaning up resources:
+
+![0103-12](Images/0103-12.png)
+
+![0103-13](Images/0103-13.png)
+
+
+
